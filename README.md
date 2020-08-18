@@ -1,5 +1,6 @@
  
-https://makecode.com/_bDhXiYast477
+Normal mode https://makecode.com/_bDhXiYast477
+Checkpoint mode https://makecode.com/_V85AYjDm1Pzp
 
 > Open this page at [https://mameeewin.github.io/snowstorm/](https://mameeewin.github.io/snowstorm/)
 
